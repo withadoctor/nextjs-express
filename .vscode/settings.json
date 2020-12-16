@@ -1,0 +1,11 @@
+{
+  // "editor.formatOnSave": true,
+  //"git.enabled": false,
+  "editor.tabSize": 2,
+  "files.exclude": {
+    ".next": true,
+    ".gitignore": true,
+    "node_modules": true,
+    "package-lock.json": true
+  }
+}
